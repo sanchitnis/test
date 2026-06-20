@@ -325,7 +325,7 @@ Rooftop solar paired with dedicated, separately sited energy infrastructure for 
 
 ### 6.5 Hackerhouses and Reducing Household Chores
 
-hackerhouses enable like minded founders to stay and work together. It great not only for peer learning and mentoring, but creates an excellent support system.
+Hackerhouses enable like minded founders to stay and work together. It great not only for peer learning and mentoring, but creates an excellent support system.
 
 By design, the township will have Mega community kitchens and Singapore style food courts to ensure that the citizens need to spend less time on cooking. They can get more time for growing their startups, life-long learning, hobbies, entertainment and rest. We can try other innovative solutions to reduce household chores. It will also make the township friendly for younger professionals.
 
