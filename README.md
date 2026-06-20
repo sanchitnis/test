@@ -24,10 +24,10 @@ quadrantChart
     title Impact vs novelty across all 13 design elements
     x-axis Lower novelty --> Higher novelty
     y-axis Lower impact --> Higher impact
-    quadrant-1 Tier 2: sound, real execution risk
-    quadrant-2 Tier 1: proven templates exist
-    quadrant-3 Tier 3: established practice
-    quadrant-4 Tier 4: first-of-kind, pilot first
+    quadrant-1 "Tier 2: sound, real execution risk"
+    quadrant-2 "Tier 1: proven templates exist"
+    quadrant-3 "Tier 3: established practice"
+    quadrant-4 "Tier 4: first-of-kind, pilot first"
     Land pooling vs. acquisition: [0.12, 0.88]
     Cooperative farmer livelihoods: [0.18, 0.84]
     Security by design (ICCC+CPTED): [0.15, 0.80]
@@ -49,6 +49,22 @@ quadrantChart
 | **Tier 2 — high impact, real execution risk** | Staged linear-to-network growth, HSR-corridor siting, arterial road geometry, peripheral manufacturing, domain branding + liberal arts | Sound principles with solid precedent in parts, but NEOM's live descoping shows the linear-city form is harder to execute at scale than to state, and the liberal-arts mandate has little direct township-scale precedent. |
 | **Tier 3 — moderate impact, established practice** | Vertical density/15-minute city, permaculture + aquaponics + zero-waste | Shapes daily quality of life rather than core viability; each component is independently well-documented, mainly an execution-quality question. |
 | **Tier 4 — first-of-kind, pilot before scaling** | Panchakosha as urban design brief, social currency from day one | Genuine differentiation value but the thinnest precedent of any element in this framework; both are recommended as phased pilots rather than day-one township-wide rollouts. |
+
+---
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+  - [Impact vs. Novelty Grid](#impact-vs-novelty-grid)
+- [1. Land Acquisition and Farmer Livelihood Transition](#1-land-acquisition-and-farmer-livelihood-transition)
+  - [1.1 Why This Has to Come First](#11-why-this-has-to-come-first)
+- [5. Domain Branding and the Liberal Arts Substrate](#5-domain-branding-and-the-liberal-arts-substrate)
+- [6. Sustainability, Density, and Quality of Life: Established Practice](#6-sustainability-density-and-quality-of-life-established-practice)
+  - [6.1 Vertical Density and the 15-Minute City](#61-vertical-density-and-the-15-minute-city)
+  - [6.2 Permaculture, Food Forests, and the Aquaponics Complement](#62-permaculture-food-forests-and-the-aquaponics-complement)
+  - [6.3 Zero-Waste Formations](#63-zero-waste-formations)
+  - [6.4 Energy](#64-energy)
+- [7. Whole-Person Development as an Urban Design Brief: The Panchakosha Lens](#7-whole-person-development-as-an-urban-design-brief-the-panchakosha-lens)
+- [8. Social Currency: Design Principles and the Limits of Precedent](#8-social-currency-design-principles-and-the-limits-of-precedent)
 
 ---
 
