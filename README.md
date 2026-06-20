@@ -39,6 +39,7 @@ quadrantChart
     "Domain branding + liberal arts": [0.72, 0.48]
     "Vertical density / 15-min city": [0.20, 0.38]
     "Permaculture + aquaponics + zero-waste": [0.25, 0.26]
+    "Hackerhouse and Mega kitchens": [0.30, 0.45]
     "Panchakosha as urban design brief": [0.85, 0.30]
     "Social currency from day one": [0.90, 0.16]
 ```
