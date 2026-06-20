@@ -21,26 +21,26 @@ The 13 design elements covered in this report, plotted against how much each aff
 
 ```mermaid
 quadrantChart
-    title Impact vs novelty across all 13 design elements
-    x-axis Lower novelty --> Higher novelty
-    y-axis Lower impact --> Higher impact
-    quadrant-1 "Tier 2: sound, real execution risk"
-    quadrant-2 "Tier 1: proven templates exist"
-    quadrant-3 "Tier 3: established practice"
-    quadrant-4 "Tier 4: first-of-kind, pilot first"
+    title Impact vs Novelty Framework
+    x-axis Lower Novelty --> Higher Novelty
+    y-axis Lower Impact --> Higher Impact
+    quadrant-1 "Tier 2: Real Execution Risk"
+    quadrant-2 "Tier 1: Proven Templates Exist"
+    quadrant-3 "Tier 3: Established Practice"
+    quadrant-4 "Tier 4: First-of-Kind (Pilot)"
     "Land pooling vs. acquisition": [0.12, 0.88]
-    "Cooperative farmer livelihoods": [0.18, 0.84]
-    "Security by design (ICCC+CPTED)": [0.15, 0.80]
-    "University-industry co-location": [0.22, 0.76]
-    "Staged linear-to-network growth": [0.62, 0.70]
-    "HSR-corridor TOD siting": [0.55, 0.66]
-    "Asymmetric arterial roads": [0.58, 0.60]
-    "Peripheral manufacturing hubs": [0.60, 0.56]
-    "Domain branding + liberal arts": [0.72, 0.50]
+    "Cooperative farmer livelihoods": [0.18, 0.80]
+    "Security by design (ICCC+CPTED)": [0.15, 0.72]
+    "University-industry co-location": [0.22, 0.64]
+    "Staged linear-to-network growth": [0.62, 0.88]
+    "HSR-corridor TOD siting": [0.55, 0.78]
+    "Asymmetric arterial roads": [0.58, 0.68]
+    "Peripheral manufacturing hubs": [0.60, 0.58]
+    "Domain branding + liberal arts": [0.72, 0.48]
     "Vertical density / 15-min city": [0.20, 0.38]
-    "Permaculture + aquaponics + zero-waste": [0.25, 0.32]
+    "Permaculture + aquaponics + zero-waste": [0.25, 0.26]
     "Panchakosha as urban design brief": [0.85, 0.30]
-    "Social currency from day one": [0.90, 0.22]
+    "Social currency from day one": [0.90, 0.16]
 ```
 
 | Quadrant | Elements | Reading |
