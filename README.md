@@ -28,19 +28,19 @@ quadrantChart
     quadrant-2 "Tier 1: proven templates exist"
     quadrant-3 "Tier 3: established practice"
     quadrant-4 "Tier 4: first-of-kind, pilot first"
-    Land pooling vs. acquisition: [0.12, 0.88]
-    Cooperative farmer livelihoods: [0.18, 0.84]
-    Security by design (ICCC+CPTED): [0.15, 0.80]
-    University-industry co-location: [0.22, 0.76]
-    Staged linear-to-network growth: [0.62, 0.70]
-    HSR-corridor TOD siting: [0.55, 0.66]
-    Asymmetric arterial roads: [0.58, 0.60]
-    Peripheral manufacturing hubs: [0.60, 0.56]
-    Domain branding + liberal arts: [0.72, 0.50]
-    Vertical density / 15-min city: [0.20, 0.38]
-    Permaculture + aquaponics + zero-waste: [0.25, 0.32]
-    Panchakosha as urban design brief: [0.85, 0.30]
-    Social currency from day one: [0.90, 0.22]
+    "Land pooling vs. acquisition": [0.12, 0.88]
+    "Cooperative farmer livelihoods": [0.18, 0.84]
+    "Security by design (ICCC+CPTED)": [0.15, 0.80]
+    "University-industry co-location": [0.22, 0.76]
+    "Staged linear-to-network growth": [0.62, 0.70]
+    "HSR-corridor TOD siting": [0.55, 0.66]
+    "Asymmetric arterial roads": [0.58, 0.60]
+    "Peripheral manufacturing hubs": [0.60, 0.56]
+    "Domain branding + liberal arts": [0.72, 0.50]
+    "Vertical density / 15-min city": [0.20, 0.38]
+    "Permaculture + aquaponics + zero-waste": [0.25, 0.32]
+    "Panchakosha as urban design brief": [0.85, 0.30]
+    "Social currency from day one": [0.90, 0.22]
 ```
 
 | Quadrant | Elements | Reading |
