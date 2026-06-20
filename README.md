@@ -63,7 +63,7 @@ quadrantChart
   - [6.2 Permaculture, Food Forests, and the Aquaponics Complement](#62-permaculture-food-forests-and-the-aquaponics-complement)
   - [6.3 Zero-Waste Formations](#63-zero-waste-formations)
   - [6.4 Energy](#64-energy)
-  - [6.5 Hackerhouses and Reducing Household Chores](65-hackerhouses-and-reducing-household-chores)
+  - [6.5 Hackerhouses and Reducing Household Chores](#65-hackerhouses-and-reducing-household-chores)
 - [7. Whole-Person Development as an Urban Design Brief: The Panchakosha Lens](#7-whole-person-development-as-an-urban-design-brief-the-panchakosha-lens)
 - [8. Social Currency: Design Principles and the Limits of Precedent](#8-social-currency-design-principles-and-the-limits-of-precedent)
 
